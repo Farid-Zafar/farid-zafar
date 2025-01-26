@@ -8,11 +8,14 @@ Hello, I'm Farid Zafar! 👋
 * ✉️  Contact: [farid@Analytixia.com](mailto:farid@Analytixia.com)
 ------------------------------------------------------------------------------------
 ### 🚀 About Me
-With over 10 years of experience in analytics, I specialize in turning data into actionable insights to drive business decisions. My journey spans diverse industries, from e-commerce and retail to pharma, stock markets, and real estate.
-I am passionate about building scalable solutions, crafting data-driven recommendations, and applying machine learning to solve real-world challenges.
+With over a decade of experience in analytics, I excel in transforming data into actionable insights that drive impactful business decisions. My professional journey spans diverse industries, including e-commerce, retail, oil & gas, FMCG manufacturing, and the stock market.
+I am passionate about:
+ - Designing scalable solutions
+ - Delivering data-driven recommendations
+ - Leveraging machine learning to address real-world challenges
 
-Here, I present both my professional projects and new initiatives using sample data to explore industry-specific analytics solutions.
 
+##### This portfolio showcases my professional projects alongside new initiatives using sample data to explore innovative, industry-specific analytics solutions.
 ------------------------------------------------------------------------------------
 ### 🛠️ Skills
 
