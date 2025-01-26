@@ -2,7 +2,7 @@
 I'm a BI Engineer @Amazon (Canada Development Center) and Co-Founder @Analytixia Solutions (Analytics & Business Advisory Solution Provider)
 
 ------------------------------------------------------------------------------------
-* 🌍  I'm based in Canada
+* 🌍  I'm based in Canada, Vancouver.
 * 🧠  I'm currently learning AWS Solution Architect & Machine Learning
 * 🤝  I'm open to collaborating on any Data Analytics and ML projects
 * ✉️  You can contact me at [farid@Analytixia.com](mailto:farid@Analytixia.com)
