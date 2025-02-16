@@ -1,38 +1,43 @@
-Hello, I'm Farid Zafar! 👋
-##### BI Engineer @ Amazon Canada Development Center | Co-Founder @ Analytixia Solutions
-##### Specializing in Business Analytics, Data Engineering, and Advisory Solutions
+#### 👋 Hello, I'm Farid Zafar
+**BI Engineer** @ Amazon Canada Development Center | **Co-Founder** @ Analytixia Solutions
+
+**Specializing in**: Business Analytics • Data Engineering • Data-Driven Solutions
+
 ------------------------------------------------------------------------------------
-* 🌍  Based in: Vancouver, Canada
-* 🧠  Currently Learning: AWS Solution Architecture & Machine Learning
-* 🤝  Collaborations: Open to partnering on Data Analytics and ML projects
-* ✉️  Contact: [farid@Analytixia.com](mailto:farid@Analytixia.com)
+#### 🌍 Quick Facts
+📍 Based in: Vancouver, Canada
+
+🚀 Currently Learning: AWS Solutions Architecture & Machine Learning (MLOps)
+
+🤝 Open to: Collaborations on Data Analytics, ML, and Cloud Engineering projects
+
+📫 Reach me: [farid@analytixia.com](mailto:farid@Analytixia.com) | [LinkedIn](https://www.linkedin.com/in/faridzafar/)
+
 ------------------------------------------------------------------------------------
 ### 🚀 About Me
-With over a decade of experience in analytics, I excel in transforming data into actionable insights that drive impactful business decisions. My professional journey spans diverse industries, including e-commerce, retail, oil & gas, FMCG manufacturing, and the stock market.
-I am passionate about:
- - Designing scalable solutions
- - Delivering data-driven recommendations
- - Leveraging machine learning to address real-world challenges
+With **10+ years** of experience, I transform raw data into actionable insights for industries like **e-commerce, retail, FMCG, and finance**. At **Amazon**, I architect scalable BI solutions, while at **Analytixia**, I empower businesses with end-to-end analytics strategies.
+
+**What drives me:**
+
+🧩 Designing **cloud-native, scalable data pipelines** (AWS/Azure/GCP)
+
+📊 Delivering **impactful dashboards** (Power BI, QlikView, QuickSight)
+
+🤖 Solving business challenges with **ML-driven automation** (Python, TensorFlow, SageMaker)
+
+----------------------------------
+### 🛠️ Technical Toolkit
+
+**Cloud & Data Engineering**
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS" /></a> <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="36" height="36" alt="Azure" title="Azure" /></a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a> <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer"><img src="https://svgmix.com/uploads/47fa15-aws-redshift.svg" width="36" height="36" alt="Redshift" title="Redshift" /></a> </p>
+
+**BI & Visualization**
+<p align="left"> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" title="Power BI" /></a> <a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"><img src="https://svgmix.com/uploads/c3f803-aws-quicksight.svg" width="36" height="36" alt="QuickSight" title="QuickSight" /></a> <a href="https://www.qlik.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Qlik-Logo_RGB.jpg" width="66" height="36" alt="QlikView" title="QlikView" style="background:white; padding:5px;"/></a> </p>
+
+**Machine Learning & Analytics**
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="36" height="36" alt="Python" title="Python" /></a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" /></a> <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"><img src="https://svgmix.com/uploads/9474b8-amazon-sagemaker.svg" width="36" height="36" alt="SageMaker" title="SageMaker" /></a> </p>
 
 
-##### This portfolio showcases my professional projects alongside new initiatives using sample data to explore innovative, industry-specific analytics solutions.
-------------------------------------------------------------------------------------
-### 🛠️ Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" /></a>
-<a href="https://azure.microsoft.com/en-us/products/azure-sql/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/7340cc3d-0c52-4a99-9d24-c9e17930e796" width="36" height="36" alt="Azure SQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="36" height="36" alt="Microsoft Azure" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"> <img src="https://svgmix.com/uploads/c3f803-aws-quicksight.svg" width="36" height="36" alt="QuickSight"/></a> 
-<a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer"> <img src="https://svgmix.com/uploads/47fa15-aws-redshift.svg" width="36" height="36" alt="Redshift"/></a> 
-<a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://svgmix.com/uploads/9474b8-amazon-sagemaker.svg" width="36" height="36" alt="SageMaker" /></a> 
-<a href="https://www.qlik.com/us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Qlik-Logo_RGB.jpg" width="66" height="36" alt="QlikView" /></a>
 
  ### 🌐 Socials
 
@@ -40,17 +45,19 @@ I am passionate about:
 
 ------------------------------------------------------------------------------------
 
-### 📁 Projects by Industry
-#### 1) E-Commerce:
+### 📁 Featured Projects
+####  🛒 E-Commerce:
 * Advanced Sales Performance Analytics
 * Product & Inventory Analytics
 * Customer & Marketing Analytics
 * Product Recommendation Systems
 
-Coming Soon: 
-#### 2) Retail Stores (Power BI)
-#### 3) FMCG Manufacturing (QlikView)
-#### 4) Customer Service (AWS QuickSight & Python)
-#### 5) Stock Market (Python) 
-#### 6) Real Estate (Python)
-#### 7) Gaming (Python)
+####  🏪 Retail Stores (Power BI)
+
+####  📈 Stock Market (Python) 
+####  FMCG Supply Chain Analytics (QlikView)
+####  Customer Service (AWS QuickSight & Python)
+
+#### Coming Soon: 
+* ######  Real Estate Price Forecasting (Python)
+* ######  Gaming User Behavior Analysis (Python)
