@@ -50,10 +50,9 @@ With **10+ years** of experience, I transform raw data into actionable insights 
 * Product Recommendation Systems
 
 ####  🏪 Retail Stores (Power BI)
-
 ####  📈 Stock Market (Python) 
-####  FMCG Supply Chain Analytics (QlikView)
-####  Customer Service (AWS QuickSight & Python)
+####  🏭 FMCG Supply Chain Analytics (QlikView)
+####  📞 Customer Service (AWS QuickSight)
 
 #### Coming Soon: 
 * ######  Real Estate Price Forecasting (Python)
