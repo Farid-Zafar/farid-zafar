@@ -53,6 +53,8 @@ With **10+ years** of experience, I transform raw data into actionable insights 
 ####  📈 Stock Market (Python) 
 ####  🏭 FMCG Supply Chain Analytics (QlikView)
 ####  📞 Customer Service (AWS QuickSight)
+####  🍽️ Nutrition Analysis (AWS QuickSight + Python)
+
 
 #### Coming Soon: 
 * ######  Real Estate Price Forecasting (Python)
