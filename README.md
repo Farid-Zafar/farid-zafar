@@ -11,7 +11,7 @@
 
 🤝 Open to: Collaborations on Data Analytics, ML, and Cloud Engineering projects
 
-📫 Reach me: [farid@analytixia.com](mailto:farid@Analytixia.com) | [LinkedIn](https://www.linkedin.com/in/faridzafar/)
+📫 Reach me: [farid@analytixia.com](mailto:farid@Analytixia.com) | [faridzafarca@gmail.com](mailto:faridzafarca@gmail.com) | [LinkedIn](https://www.linkedin.com/in/faridzafar/)
 
 ------------------------------------------------------------------------------------
 ### 🚀 About Me
